@@ -1,0 +1,6 @@
+bgdbbackend/settings.py
+Procfile
+runtime.txt
+test.txt
+/staticfiles/*
+log.txt
