@@ -26,7 +26,7 @@ SECRET_KEY = '%vyp1gq98&4kwl1xc^##m0!5pycff9d-)5lo-dn41+s+1&okc('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['zacharyh211.github.io/bgg-react-demo/']
 
 
 # Application definition
